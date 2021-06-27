@@ -4,7 +4,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 from dash_html_components.Label import Label
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+external_stylesheets = ['https://raw.githubusercontent.com/yanchokraev/grayshift/master/dist/css/grayshift.css']
 
 
 def entname(name):
